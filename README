@@ -1,0 +1,8 @@
+This is the arduino IDE program written for the second year coil winder project at Massey University
+
+Author: Anton Andres
+
+Things to note:
+
+    This project is essentially complete, however this source code is missing a few key elements:
+        -   Emergency Stop button configuration and functions
