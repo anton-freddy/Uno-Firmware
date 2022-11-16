@@ -746,3 +746,6 @@ void make_cut(){
     C_SERVO.write(200);
     delay(200);
 }
+
+
+// X Y Z
